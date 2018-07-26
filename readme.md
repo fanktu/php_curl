@@ -4,7 +4,7 @@
 
 [Client URL Library](https://secure.php.net/manual/en/book.curl.php)
 
-PHP Curl 可取得特定頁面的資訊，再配合 preg_match_all() 以 Regular Expression 擷取然定格式資料。
+PHP Curl 可取得特定頁面的資訊，再配合 preg_match_all() 以 Regular Expression 擷取指定格式資料。
 
 ## User Agent
 
